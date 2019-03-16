@@ -27,3 +27,4 @@ Projeto desenvolvido durante o Terceiro ano do Ensino médio utilizando a lingua
 **Fim do jogo** <br/>
 ![Fim do jogo](https://github.com/guilhermegals/Imagens/blob/master/DotsAndBoxesGameOver.PNG "Fim de jogo")
 
+**Desenvolvido por Guilherme Augusto Leite Santos em 2017**
